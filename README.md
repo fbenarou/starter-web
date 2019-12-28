@@ -18,3 +18,7 @@ Add deployment text 1
 Add deployment text 2
 
 ## How to Contribute
+
+### Copyright
+
+2019 Git.Training
